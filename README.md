@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **"blind verse", a project that aims to help blind people perform their daily tasks easily.**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **object oriented programming, c++, design patterns, javascript, react, algorithms and data structures and writing clean code.**
 

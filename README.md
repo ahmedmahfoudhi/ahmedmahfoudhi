@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahfoudhi</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **"blind verse", a project that aims to help blind people perform their daily tasks easily.**
+- 🔭 I’m currently working on **CodeCooperation**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **object oriented programming, c++, design patterns, javascript, react, algorithms and data structures and writing clean code.**
 

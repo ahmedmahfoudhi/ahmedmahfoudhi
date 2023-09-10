@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ahmed Mahfoudhi 👋</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-- 🔭 I’m currently working on **CodeCooperation**
+- 🔭 I’m currently working in **Stackdrop**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **object oriented programming, c++, design patterns, javascript, react, algorithms and data structures and writing clean code.**
+- 💬 Ask me about **competitive programming**
 
 - 📫 How to reach me **mahfoudhiahmed2000@gmail.com**
 

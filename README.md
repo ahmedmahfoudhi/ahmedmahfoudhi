@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Ahmed Mahfoudhi 👋</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working in **Ventus Technologies GmbH**
+- 🔭 I’m currently working in **Reality**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Algorithms and Data Structures, Web Development, Cloud especially AWS**
 
-- 📫 How to reach me **mahfoudhiahmed2000@gmail.com**
+- 📫 How to reach me **ahmed.mahfoudhi@insat.ucar.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

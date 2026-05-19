@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working at **Reality**
+- 🔭 I’m currently working at **MVST**
 - 🌱 I’m currently learning **DevOps**
 - 💻 I focus on **JavaScript/TypeScript**, **Python**, and modern backend development
 - 🧠 I enjoy **Algorithms and Data Structures**, system design, and clean architecture
